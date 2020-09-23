@@ -1,0 +1,12 @@
+Package: ode.ident
+Title: Identifiability Analysis for Linear ODE systems
+Version: 0.1
+Author: Xing Qiu
+Description: This package provides several useful tools to quantify the (A,x0)-identifiability of a linear ODE system.
+Maintainer: Xing Qiu <xing_qiu@urmc.rochester.edu>
+Depends: R (>= 3.6.0), fda
+Suggests: Matrix
+Imports:
+Enhances:
+License: LGPL
+LazyLoad: yes

@@ -1,0 +1,11 @@
+## automatically load pkg1 and pkg2
+import(fda)
+## load objs from other packages
+importFrom("stats", "coef", "dist")
+## importFrom(pkg2, obj3)
+
+## Only export these objs to the search path for the end user
+export(EquivSystem, fsmooth, ICISAnalysis, Jordan, JordanReal, PISAnalysis, twostage1, twostage2)
+
+## Export everything which starts with a letter.
+## exportPattern("^[[:alpha:]]+")
