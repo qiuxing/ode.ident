@@ -31,8 +31,7 @@ that is equivalent to A. }
   \item{Atilde}{A system matrix that is equivalent to A at \code{x0}.}
 }
 \references{ X. Qiu, T. Xu, B. Soltanalizadeh, and H. Wu. (2020+)
-  Mathematical and Practical Identifiability of High-dimensional Linear
-  Ordinary Differential Equation Systems. Submitted.}
+Identifiability Analysis of Linear Ordinary Differential Equation Systems with a Single Trajectory. Submitted.}
 \author{Xing Qiu}
 \seealso{ \code{\link{ICISAnalysis}}, \code{\link{PISAnalysis}} }
 \examples{

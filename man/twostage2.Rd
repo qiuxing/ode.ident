@@ -45,7 +45,7 @@ twostage2(Y, Ts, nord=4, rough.pen=1e-3)
     method. }
   \item{x0}{The estimated initial condition. }
 }
-\references{X. Qiu, T. Xu, B. Soltanalizadeh, and H. Wu. (2020+) Mathematical and Practical Identifiability of High-dimensional Linear Ordinary Differential Equation Systems. Submitted.}
+\references{X. Qiu, T. Xu, B. Soltanalizadeh, and H. Wu. (2020+) Identifiability Analysis of Linear Ordinary Differential Equation Systems with a Single Trajectory. Submitted.}
 \author{Xing Qiu}
 \seealso{\code{\link{fsmooth}}, \code{\link{twostage1}}}
 \examples{

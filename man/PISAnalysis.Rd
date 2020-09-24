@@ -42,8 +42,7 @@ PISAnalysis(Y,S,L)
     dynamical systems from a single trajectory. SIAM Journal on Applied
     Dynamical Systems, 13(4), 1792-1815.
   \item X. Qiu, T. Xu, B. Soltanalizadeh, and H. Wu. (2020+)
-  Mathematical and Practical Identifiability of High-dimensional Linear
-  Ordinary Differential Equation Systems. Submitted.
+Identifiability Analysis of Linear Ordinary Differential Equation Systems with a Single Trajectory. Submitted.
 }}
 \author{Xing Qiu}
 \seealso{\code{\link{ICISAnalysis}}, \code{\link{twostage2}}}

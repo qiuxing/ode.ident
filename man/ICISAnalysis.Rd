@@ -66,7 +66,7 @@ ICISAnalysis(A, x0, n.digits=3)
     }
   }
 }
-\references{ X. Qiu, T. Xu, B. Soltanalizadeh, and H. Wu. (2020+) Mathematical and Practical Identifiability of High-dimensional Linear Ordinary Differential Equation Systems. Submitted. }
+\references{ X. Qiu, T. Xu, B. Soltanalizadeh, and H. Wu. (2020+) Identifiability Analysis of Linear Ordinary Differential Equation Systems with a Single Trajectory. Submitted. }
 \author{Xing Qiu}
 \seealso{\code{\link{PISAnalysis}}}
 \examples{
